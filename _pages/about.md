@@ -19,12 +19,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jinxiang Xie (pronounced as "JIN-shee-ahng SHEE-eh"). I'm a fourth-year undergraduate student majoring in Information and Computing Science at <i class="fas fa-university"></i> **Beijing Jiaotong University**. I am currently a research intern at <i class="fab fa-microsoft"></i> **Microsoft** working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Previously, I was honored to conduct research at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
+My name is Jinxiang Xie (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. 
 
-I have been offered admission to the graduate program at Nanjing University for Fall 2025, providing me with a valuable window to further immerse myself in research. **I am actively seeking research assistant opportunities in LLMs applications and natural language processing**.
+Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
+Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
 
-Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
+My research focuses on leveraging Large Language Models to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+
+**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -41,14 +43,14 @@ Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
     <ul>
       <li>Technical blogs with 500K+ views</li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
-      <li>Growing <a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">WeChat Public Account</a> on Tech & Humanities</li>
+      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">Blogs</a> about Tech & Humanities</li>
     </ul>
   </div>
   
   <div class="highlight-block">
     <h3>🌎 Life Explorer</h3>
     <ul>
-      <li>Visited 7 countries worldwide</li>
+      <li>Visited 9 countries worldwide</li>
       <li>Traveled to 32 provinces in China</li>
       <li>Rich experience in social work & activities</li>
     </ul>
