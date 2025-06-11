@@ -80,12 +80,12 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   </div>
 </div>
 
-</div>
+
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
-- *2024.09*: &nbsp;I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
-- *2024.06*: &nbsp;I received 3 years of funding from iCANDOC at the University of Helsinki.
-</div>
+- *2025.01*: &nbsp;🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
+- *2024.09*: &nbsp; I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
+- *2024.06*: &nbsp; I received 3 years of funding from iCANDOC at the University of Helsinki.
+
 
 # 📝 Publications 
 
@@ -153,24 +153,24 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 # 🥇 Honors and Awards
-- *2024.08-2027.07*: &nbsp;Three-year fully funded positions from iCANDOC of University of Helisnki, Helsinki, Finland.
-- *2024.09*: &nbsp;Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
-- *2023.09*: &nbsp;Maud Kuistila Memorial Foundation,Helsinki, Finland.
-- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, China.
+- *2024.08-2027.07*: &nbsp; Three-year fully funded positions from iCANDOC ofthe  University of Helsinki, Helsinki, Finland.
+- *2024.09*: &nbsp; Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
+- *2023.09*: &nbsp; Maud Kuistila Memorial Foundation, Helsinki, Finland.
+- *2021.07*: &nbsp; University of Chinese Academy of Sciences Academic Scholarship, China.
 - *2017.11*: &nbsp;National scholarship, China.
-- *2016.06 - 2018.06*: &nbsp;University First-class Scholarship (3 times), China.
+- *2016.06 - 2018.06*: &nbsp ;University First-class Scholarship (3 times), China.
 
 
 # 📖 Educations
-- *2022.09 - *: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.
-- *2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
+- *2022.09 -*: &nbsp; PhD student in DPBM, University of Helsinki, Helsinki, Finland.
+- *2022.06*: &nbsp; Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships (这个可以等有了再填)
-- *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
+- *2024.08 - Present*: &nbsp; Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
 
