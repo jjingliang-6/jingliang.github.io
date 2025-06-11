@@ -153,17 +153,17 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 # 🥇 Honors and Awards
-- *2024.08-2027.07*: &nbsp; Three-year fully funded positions from iCANDOC of the University of Helsinki, Helsinki, Finland.
-- *2024.09*: &nbsp; Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
-- *2023.09*: &nbsp; Maud Kuistila Memorial Foundation, Helsinki, Finland.
-- *2021.07*: &nbsp; University of Chinese Academy of Sciences Academic Scholarship, China.
-- *2017.11*: &nbsp; National scholarship, China.
-- *2016.06 - 2018.06*: &nbsp; University First-class Scholarship (3 times), China.
+- *2024.08-2027.07*: &nbsp;Three-year fully funded positions from iCANDOC of the University of Helsinki, Helsinki, Finland.
+- *2024.09*: &nbsp;Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
+- *2023.09*: &nbsp;Maud Kuistila Memorial Foundation, Helsinki, Finland.
+- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, China.
+- *2017.11*: &nbsp;National scholarship, China.
+- *2016.06 - 2018.06*: &nbsp;University First-class Scholarship (3 times), China.
 
 
 # 📖 Educations
-- *2022.09 -*: &nbsp; PhD student in DPBM, University of Helsinki, Helsinki, Finland.
-- *2022.06*: &nbsp; Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
+- *2022.09 -*: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.
+- *2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
