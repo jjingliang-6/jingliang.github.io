@@ -40,7 +40,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   </div>
 
   <div class="highlight-block">
-  <h3>🔬 Research experience</h3>
+  <h3>🧍 Research experience</h3>
   <ul>
     <li>Research focus on cancer transcription, metabolism and multi-omics</li>
     <li>
@@ -56,7 +56,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
     </li>
     <li>Construction of transcriptional regulatory networks (TRN)</li>
     <li>Machine learning and Raman spectroscopy</li>
-    <li>Cultivation, isolation and identification of microorganisms</li>
+    <li>Cultivation, isolation, and identification of microorganisms</li>
   </ul>
   </div>
   
@@ -74,7 +74,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Visited 7 countries worldwide</li>
       <li>Traveled to 20 provinces in China</li>
       <li>Love cooking Chinese food and learning to make world cuisine</li>
-      <li>Photography enthusiasts: record natural scenery, portraits and wedding commemorative shoots</li>
+      <li>Photography enthusiasts: record natural scenery, portrait,s and wedding commemorative shoots</li>
       <li>Rich experience in social work & activities & volunteer</li>
     </ul>
   </div>
@@ -153,12 +153,12 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 # 🥇 Honors and Awards
-- *2024.08-2027.07*: &nbsp; Three-year fully funded positions from iCANDOC ofthe  University of Helsinki, Helsinki, Finland.
+- *2024.08-2027.07*: &nbsp; Three-year fully funded positions from iCANDOC of the University of Helsinki, Helsinki, Finland.
 - *2024.09*: &nbsp; Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
 - *2023.09*: &nbsp; Maud Kuistila Memorial Foundation, Helsinki, Finland.
 - *2021.07*: &nbsp; University of Chinese Academy of Sciences Academic Scholarship, China.
-- *2017.11*: &nbsp;National scholarship, China.
-- *2016.06 - 2018.06*: &nbsp ;University First-class Scholarship (3 times), China.
+- *2017.11*: &nbsp; National scholarship, China.
+- *2016.06 - 2018.06*: &nbsp; University First-class Scholarship (3 times), China.
 
 
 # 📖 Educations
