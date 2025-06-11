@@ -80,12 +80,13 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   </div>
 
 
-
-# 🔥 News
-- *2025.01*: &nbsp;🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
-- *2024.09*: &nbsp; I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
-- *2024.06*: &nbsp; I received 3 years of funding from iCANDOC at the University of Helsinki.
-
+<div class="highlight-block" markdown="1">
+  # 🔥 News
+  
+  - *2025.01*: &nbsp;🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
+  - *2024.09*: &nbsp; I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
+  - *2024.06*: &nbsp; I received 3 years of funding from iCANDOC at the University of Helsinki.
+</div>
 
 # 📝 Publications 
 
@@ -119,7 +120,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 <!-- ===== 本行是第3篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">rAnalytical Chemistry</div><img src='images/Publications_page-0002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry</div><img src='images/Publications_page-0002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dynamically Quantifying Intracellular Elemental Sulfur and Predicting Pertinent Gene Transcription by Raman Spectroscopy in Living Cells**
