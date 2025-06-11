@@ -856,7 +856,7 @@ layout: compress
 
   <body>
     <header class="cn-header">
-      <a href="/" class="cn-logo">谢锦翔 Richard</a>
+      <a href="/" class="cn-logo">Jing Liang Richard</a>
       <div class="menu-toggle">
         <span></span>
         <span></span>
@@ -872,12 +872,12 @@ layout: compress
     <main class="cn-main">
       <section id="about" class="cn-section">
         <div class="cn-hero">
-          生命不是一个有待解决的问题，而是一个等待被体验的现实
-          <span class="author">—— 齐克果</span>
+          人生不是要发现自己，而是要创造自己
+          <span class="author">—— 维克多·弗兰克尔</span>
         </div>
         <div class="about-grid">
           <div class="about-image">
-            <img src="https://jinxxie-1259409242.cos.ap-nanjing.myqcloud.com/72e34b3f797a658133fcbd3b2d47fa0a.jpg" alt="profile picture">
+            <img src="/images/about-image0.jpg" alt="profile picture">
           </div>
           <div class="about-content">
             <div class="cn-content">
@@ -886,14 +886,14 @@ layout: compress
                 
                 <div class="about-section">
                   <h3><i class="fas fa-user-graduate"></i> 学术背景</h3>
-                  <p>你好！我是谢锦翔，目前是<strong>北京交通大学</strong>信息与计算科学专业的大四学生，已获得<strong>南京大学</strong>2025年秋季研究生项目的录取。</p>
+                  <p>你好！我是Jing Liang，目前是<strong>University of Helsinki</strong>生物医学专业的博士生，已完成<strong>中国科学院大学</strong>的遗传学硕士学位。</p>
                   
-                  <p>我曾在<strong>微软</strong>担任研究实习生，与MSRA首席研究员丁锐合作。在此之前，我很荣幸能在<strong>北京大学</strong>跟随万小军教授开展研究工作。</p>
+                  <p>我在<strong>中国科学院微生物研究所</strong>进行我的硕士课题，并与中国科学院动物研究所开展项目合作，很荣幸过去能在那里开展我的研究工作。</p>
                 </div>
                 
                 <div class="about-section">
                   <h3><i class="fas fa-flask"></i> 研究方向</h3>
-                  <p>我的研究旨在用大模型处理复杂系统，弥合先进AI技术与产业应用的鸿沟，比如用于非结构化数据的处理、量化交易、多肽-多肽相互作用等。
+                  <p>我目前博士的研究旨在基于转录组、蛋白组、代谢组和表观组解释为什么失去主要转录激酶CDK12活性会导致前列腺癌细胞侵袭性增殖。
                   
                   <!-- <p>人类的身体素质在自然界中并不起眼，只是因为人类有无穷的想象力，人类社会才去的长足发展。人类对自己的本质如此困惑，以至于现在希望用硅重塑自己。我认为，<strong>人工智能革命必须明确地以人为本</strong>。</p> -->
                 </div>
@@ -901,20 +901,20 @@ layout: compress
             </div>
           </div>
           <div class="about-image" style="margin-top: 2rem; grid-area: second-image;">
-            <img src="https://jinxxie-1259409242.cos.ap-nanjing.myqcloud.com/PersonalProfile.jpg">
+            <img src="/images/about-image0.jpg">
           </div>
           <div class="about-content" style="grid-area: more-content;">
             <div class="cn-content">
               <div class="about-section">
                 <h3><i class="fas fa-feather-alt"></i> 个人兴趣</h3>
-                <p>我对科技和人文抱有浓厚的兴趣。我在微信公众号、小红书和X进行内容创作，主要分享：</p>
+                <p>我对科技、旅行、和摄影有浓厚的兴趣。我在小红书和领英进行内容创作，主要分享：</p>
                 <ul class="interest-list">
-                  <li>个人成长经历</li>
-                  <li>学习笔记与心得</li>
-                  <li>AI加持的生活方式</li>
+                  <li>学科进展</li>
+                  <li>旅行和生活中的趣事</li>
+                  <li>摄影照片集</li>
                 </ul>
-                <p>我的创作旨在让更广泛的群体享受到人工智能发展带来的好处。<strong>我们不能因为整个时代都在奔跑前进，就忽略了那些被撞倒的人</strong>。</p>
-                <p>我喜欢旅行，已经走过32个省级行政区和7个国家，我的旅行、成长经历塑造了我如今的信仰和发展方向。我相信人会在变动里充满生机，迁徙与漂泊的另一面是寻找与流动。</p>
+                <p>我的创作旨在让看到我分享内容的人感受到生活的乐趣，将自己受益的内容进行传播和分享。<strong>我有时受益于别人的分享，也想让别人受益于自己分享的内容</strong>。</p>
+                <p>我喜欢旅行，已经走过欧洲、美洲和亚洲多个城市和国家，这些旅行过程中的经历让我得到磨炼，塑造了我如今的信念和发展方向。</p>
               </div>
             </div>
           </div>
@@ -935,7 +935,7 @@ layout: compress
                   <p>{{ post.excerpt }}</p>
                 </div>
                 <div class="paper-box-meta">
-                  <span class="badge">{{ post.date | date: "%Y年%m月" }}</span>
+                  <span class="badge">{{ post.date | date: "%Y年" }}</span>
                   <div class="post-location">{{ post.location }}</div>
                 </div>
               </div>
@@ -943,7 +943,7 @@ layout: compress
           {% endfor %}
         </div>
         <div class="timeline-end">
-          未完待续，精彩继续...
+          未完待续...
         </div>
       </section>
 
