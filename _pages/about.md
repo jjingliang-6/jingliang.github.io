@@ -34,7 +34,8 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Conferences in US and UK:
           <ul>
             <li>Minisymposium speaker at AACR 2025 in chicaco</li>
-            <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li> 
+            <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li>
+          </ul>
     </ul>
   </div>
 
@@ -79,16 +80,15 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   </div>
 </div>
 
-<h1 id="-news">🔥 News</h1>
+<h1 id="-news">📝 News</h1>
 <ul>
   <li><em>2025.01</em>: 🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!</li>
-  - *2024.09*: &nbsp; I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
-  - *2024.06*: &nbsp; I received 3 years of funding from iCANDOC at the University of Helsinki.
+  <li><em>2024.09</em>: I received a Young Investigator's grant from Biomedicum Helsinki Foundation.</li>
+  <li><em>2024.06</em>: I received 3 years of funding from iCANDOC at the University of Helsinki.</li>
 </ul>
 
-# 📝 Publications 
+<h1 id="-publications">📝 Publications</h1>
 
-<!-- ===== 本行是第1篇 ===== -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -152,18 +152,21 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 </div>
 
-# 🥇 Honors and Awards
-- *2024.08-2027.07*: &nbsp;Three-year fully funded positions from iCANDOC of the University of Helsinki, Helsinki, Finland.
-- *2024.09*: &nbsp;Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
-- *2023.09*: &nbsp;Maud Kuistila Memorial Foundation, Helsinki, Finland.
-- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, China.
-- *2017.11*: &nbsp;National scholarship, China.
-- *2016.06 - 2018.06*: &nbsp;University First-class Scholarship (3 times), China.
+<h1 id="-honors and awards">🥇 Honors and Awards</h1>
+<ul>
+  <li><em>2024.08-2027.07</em>: Three-year fully funded positions from iCANDOC of the University of Helsinki, Helsinki, Finland.</li>
+  <li><em>2024.09</em>: Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.</li>
+  <li><em>2023.09</em>: Maud Kuistila Memorial Foundation, Helsinki, Finland.</li>
+  <li><em>2021.07</em>: University of Chinese Academy of Sciences Academic Scholarship, China.</li>
+  <li><em>2017.11</em>: National scholarship, China.</li>
+  <li><em>2016.06 - 2018.06</em>: University First-class Scholarship (3 times), China.</li>
+</ul>
 
-
-# 📖 Educations
-- *2022.09 -*: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.
-- *2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
+<h1 id="-educations">📝 Educations</h1>
+<ul>
+  <li><em>2022.09 -*: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
+  <li><em>2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
+</ul>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -174,7 +177,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
 
-📚 Blogs
+<!-- # 📚 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
