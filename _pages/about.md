@@ -65,13 +65,14 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Cancer</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
+<!-- ===== 本行是第1篇 ===== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CDK12-inactivation-induced MYC signaling causes dependency on the splicing kinase SRPK1**
+**Inactivation of CDK12 remodels the transcription machinery and promotes epigenetic plasticity**
 
 - **Jing Liang**, Aishwarya Gondane, Harri M. Itkonen
-- [[DOI]](https://doi.org/10.1002/1878-0261.13666)
+- [[DOI]](https://doi.org/10.1158/1538-7445.AM2025-6412)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
@@ -79,17 +80,62 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 - We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
 </div>
 </div>
-
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<!-- ===== 本行是第2篇 ===== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Cancer</div><img src='images/Publications_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CDK12-inactivation-induced MYC signaling causes dependency on the splicing kinase SRPK1**
+
+- **Jing Liang**, Aishwarya Gondane, Harri M. Itkonen
+- [[DOI]](https://doi.org/10.1002/1878-0261.13666)
+
+</div>
+</div>
+
+<!-- ===== 本行是第3篇 ===== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">rAnalytical Chemistry</div><img src='images/Publications_page-0002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dynamically Quantifying Intracellular Elemental Sulfur and Predicting Pertinent Gene Transcription by Raman Spectroscopy in Living Cells**
+
+- Weilai Lu; Lu Wang; **Jing Liang**,; Yi Lu; Jing Wang; Yu Vincent Fu
+- [[DOI]](https://doi.org/10.1021/acs.analchem.3c00047)
+
+</div>
+</div>
+<!-- ===== 本行是第4篇 ===== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/Publications_page-0003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CDK9 inhibition activates innate immune response through viral mimicry**
+
+- Shivani Yalala; Aishwarya Gondane; Ninu Poulose; **Jing Liang**; Ian Mills; Harri Itkonen
+- [[DOI]](https://doi.org/10.1096/fj.202302375r)
+
+</div>
+</div>
+<!-- ===== 本行是第5篇 ===== -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/Publications_page-0004.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Compromised CDK12 activity causes dependency on the high activity of O-GlcNAc transferase**
+
+- Satu Pallasaho, Aishwarya Gondane, Julia Kutz, Jing Liang, Shivani Yalala, Damien Y Duveau, Helmut Pospiech, Craig J Thomas, Massimo Loda, Harri M Itkonen
+- [[DOI]](https://doi.org/10.1093/glycob/cwae081)
+
+</div>
+</div>
+
 # 🥇 Honors and Awards
-- *2024.08-2027.07*: &nbsp;iCANDOC from University of Helisnki, Helsinki, Finland.
+- *2024.08-2027.07*: &nbsp;Three-year fully funded positions from iCANDOC of University of Helisnki, Helsinki, Finland.
 - *2024.09*: &nbsp;Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
 - *2023.09*: &nbsp;Maud Kuistila Memorial Foundation,Helsinki, Finland.
-- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, Beijing, China.
+- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, China.
 - *2017.11*: &nbsp;National scholarship, China.
 - *2016.06 - 2018.06*: &nbsp;University First-class Scholarship (3 times), China.
-- *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
+
 
 # 📖 Educations
 - *2022.09 - *: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.
