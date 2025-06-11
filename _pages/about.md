@@ -26,7 +26,7 @@ My research focuses on explaining why inactivation of the transcription elongati
 I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out.
 
 
-</div>
+
   <div class="highlight-block">
     <h3>🔬 Academic Researcher</h3>
     <ul>
@@ -78,7 +78,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Rich experience in social work & activities & volunteer</li>
     </ul>
   </div>
-</div>
+
 
 
 # 🔥 News
