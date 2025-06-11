@@ -166,8 +166,8 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 <h1 id="-educations">📝 Educations</h1>
 <ul>
-  <li><em>2022.09 -*: PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
-  <li><em>2022.06*: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
+  <li><em>2022.09 -</em>: PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
+  <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
 </ul>
 
 <!-- # 💬 Invited Talks
