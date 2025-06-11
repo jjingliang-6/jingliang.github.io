@@ -31,17 +31,39 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
     <h3>🔬 Academic Researcher</h3>
     <ul>
       <li>Research focus on cancer transcription, metabolism and multi-omics</li>
-      <li>Proficient in R, Python, Jupyter Notebook, Perl, bash, and Linux </li>
-      <li>Build and master a multi-omics data analysis platform(RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, TRN)</li>
-      <li>AI and machine learning</li>
-      <li>Publication at Molecular Cancer, AAAR, ISMB/ECCB</li>
+      <li>Publications at Molecular Cancer, Cancer Res, etc</li>
+      <li>Conferences in US and UK:
+          <ul>
+            <li>Minisymposium speaker at AACR 2025 in chicaco</li>
+            <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li> 
     </ul>
   </div>
+
+  <div class="highlight-block">
+  <h3>🔬 Research experience</h3>
+  <ul>
+    <li>Research focus on cancer transcription, metabolism and multi-omics</li>
+    <li>
+      Proficient in coding, sequencing platform construction, and omics data analysis:
+      <ul>
+        <li>R, Python, Jupyter Notebook, Perl, Bash, Linux</li>
+        <li>Samples collection and Library prep for various sequencing techniques:
+          <ul>
+            <li>RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, etc.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>Construction of transcriptional regulatory networks (TRN)</li>
+    <li>Machine learning and Raman spectroscopy</li>
+    <li>Cultivation, isolation and identification of microorganisms</li>
+  </ul>
+</div>
   
   <div class="highlight-block">
     <h3>✍️ Content Creator</h3>
     <ul>
-      <li>Technical blogs with 500K+ views</li>
+      <li>Technical and experience blogs with 2K+ views</li>
       <li>Active on <a href="https://www.xiaohongshu.com/user/profile/629c9c3f000000001b02bf90">Xiaohongshu</a></li>
     </ul>
   </div>
