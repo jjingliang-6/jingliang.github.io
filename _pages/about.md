@@ -32,10 +32,11 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Research focus on cancer transcription, metabolism and multi-omics</li>
       <li>Publications at Molecular Cancer, Cancer Res, etc</li>
       <li>Conferences in US and UK:
-          <ul>
-            <li>Minisymposium speaker at AACR 2025 in chicaco</li>
-            <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li>
-          </ul>
+        <ul>
+          <li>Minisymposium speaker at AACR 2025 in chicaco</li>
+          <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li>
+        </ul>
+      </li>
     </ul>
   </div>
 
@@ -130,7 +131,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 <!-- ===== 本行是第4篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/Publications_page-0003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FASEB J</div><img src='images/Publications_page-0003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CDK9 inhibition activates innate immune response through viral mimicry**
@@ -140,8 +141,9 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 </div>
 </div>
+
 <!-- ===== 本行是第5篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><img src='images/Publications_page-0004.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>Glycobiology</div><img src='images/Publications_page-0004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Compromised CDK12 activity causes dependency on the high activity of O-GlcNAc transferase**
