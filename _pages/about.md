@@ -19,20 +19,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jinxiang Xie (pronounced "JIN-shee-ahng SHEE-eh"). I am an incoming graduate student at <i class="fas fa-university"></i> **Nanjing University**. I earned my Bachelor's degree in Information and Computing Science from <i class="fas fa-university"></i> **Beijing Jiaotong University**. Currently, I am a research intern at <i class="fab fa-microsoft"></i> **Microsoft**, where I have the privilege of working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Prior to this, I gained valuable research experience at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
+My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. Currently, I received a three-year grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
 
-My research focuses on leveraging Large Language Models to address complex systems. This includes applications in natural language processing for unstructured data, quantitative trading, and advancing scientific discovery.
+My research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including transcriptome (**RNA-seq and SLAM-seq**), proteome (**IP-MS**), and epigenomics (**MeDIP-seq**, **ATAC-seq**, and **ChIP-seq**). These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
 
-**I am actively seeking research assistant opportunities in LLM applications and natural language processing**. Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
+I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out.
+
 
 <div class="highlight-blocks">
   <div class="highlight-block">
-    <h3>🔬 AI Researcher</h3>
+    <h3>🔬 Academic Researcher</h3>
     <ul>
-      <li>Research focus on LLMs and NLP</li>
-      <li>Multiple internships at top institutions</li>
-      <li>Publication at AAAI, ACL</li>
+      <li>Research focus on cancer transcription, metabolism and multi-omics</li>
+      <li>Proficient in R, Python, Jupyter Notebook, Perl, bash, and Linux </li>
+      <li>Build and master a multi-omics data analysis platform(RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, TRN)</li>
+      <li>AI and machine learning</li>
+      <li>Publication at Molecular Cancer, AAAR, ISMB/ECCB</li>
     </ul>
   </div>
   
@@ -40,36 +42,36 @@ My research focuses on leveraging Large Language Models to address complex syste
     <h3>✍️ Content Creator</h3>
     <ul>
       <li>Technical blogs with 500K+ views</li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
-      <li><a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">Blogs</a> about Tech & Humanities</li>
+      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/629c9c3f000000001b02bf90">Xiaohongshu</a></li>
     </ul>
   </div>
   
   <div class="highlight-block">
     <h3>🌎 Life Explorer</h3>
     <ul>
-      <li>Visited 9 countries worldwide</li>
-      <li>Traveled to 32 provinces in China</li>
-      <li>Rich experience in social work & activities</li>
+      <li>Visited 7 countries worldwide</li>
+      <li>Traveled to 20 provinces in China</li>
+      <li>Love cooking Chinese food and learning to make world cuisine</li>
+      <li>Photography enthusiasts: record natural scenery, portraits and wedding commemorative shoots/li>
+      <li>Rich experience in social work & activities & volunteer</li>
     </ul>
   </div>
 </div>
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
-- *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+- *2025.01*: &nbsp;🎉🎉 The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
+- *2024.09*: &nbsp;I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
+- *2024.06*: &nbsp;I received 3 years of funding from iCANDOC at the University of Helsinki.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Cancer</div><img src='images/Example_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
+**CDK12-inactivation-induced MYC signaling causes dependency on the splicing kinase SRPK1**
 
-- **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence
-- [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
+- **Jing Liang**, Aishwarya Gondane, Harri M. Itkonen
+- [[DOI]](https://doi.org/10.1002/1878-0261.13666)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
@@ -80,20 +82,24 @@ My research focuses on leveraging Large Language Models to address complex syste
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🥇 Honors and Awards
-- *2024.08*: &nbsp;Second Prize in the Beijing Trial of the College Student "Innovation, Creativity and Entrepreneurship" Competition
-- *2024.05*: &nbsp;Honorable Mention of 2024 Mathematical Contest In Modeling
+# 🥇 Honors and Awards
+- *2024.08-2027.07*: &nbsp;iCANDOC from University of Helisnki, Helsinki, Finland.
+- *2024.09*: &nbsp;Young Investigator's grant from Biomedicum Helsinki Foundation, Helsinki, Finland.
+- *2023.09*: &nbsp;Maud Kuistila Memorial Foundation,Helsinki, Finland.
+- *2021.07*: &nbsp;University of Chinese Academy of Sciences Academic Scholarship, Beijing, China.
+- *2017.11*: &nbsp;National scholarship, China.
+- *2016.06 - 2018.06*: &nbsp;University First-class Scholarship (3 times), China.
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+- *2022.09 - *: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.
+- *2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!-- # 💻 Internships (这个可以等有了再填)
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
