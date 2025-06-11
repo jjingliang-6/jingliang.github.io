@@ -25,8 +25,7 @@ My research focuses on explaining why inactivation of the transcription elongati
 
 I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out.
 
-
-
+<div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 Academic Researcher</h3>
     <ul>
@@ -40,24 +39,24 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   </div>
 
   <div class="highlight-block">
-  <h3>🧍 Research experience</h3>
-  <ul>
-    <li>Research focus on cancer transcription, metabolism and multi-omics</li>
-    <li>
-      Proficient in coding, sequencing platform construction, and omics data analysis:
-      <ul>
-        <li>R, Python, Jupyter Notebook, Perl, Bash, Linux</li>
-        <li>Samples collection and Library prep for various sequencing techniques:
-          <ul>
-            <li>RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, etc.</li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    <li>Construction of transcriptional regulatory networks (TRN)</li>
-    <li>Machine learning and Raman spectroscopy</li>
-    <li>Cultivation, isolation, and identification of microorganisms</li>
-  </ul>
+    <h3>🧍 Research experience</h3>
+    <ul>
+      <li>Research focus on cancer transcription, metabolism and multi-omics</li>
+      <li>
+        Proficient in coding, sequencing platform construction, and omics data analysis:
+        <ul>
+          <li>R, Python, Jupyter Notebook, Perl, Bash, Linux</li>
+          <li>Samples collection and Library prep for various sequencing techniques:
+            <ul>
+              <li>RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, etc.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Construction of transcriptional regulatory networks (TRN)</li>
+      <li>Machine learning and Raman spectroscopy</li>
+      <li>Cultivation, isolation, and identification of microorganisms</li>
+    </ul>
   </div>
   
   <div class="highlight-block">
@@ -78,15 +77,14 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Rich experience in social work & activities & volunteer</li>
     </ul>
   </div>
+</div>
 
-
-<div class="highlight-block" markdown="1">
-  # 🔥 News
-  
-  - *2025.01*: &nbsp;🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
+<h1 id="-news">🔥 News</h1>
+<ul>
+  <li><em>2025.01</em>: 🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!</li>
   - *2024.09*: &nbsp; I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
   - *2024.06*: &nbsp; I received 3 years of funding from iCANDOC at the University of Helsinki.
-</div>
+</ul>
 
 # 📝 Publications 
 
