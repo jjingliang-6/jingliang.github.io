@@ -26,7 +26,7 @@ My research focuses on explaining why inactivation of the transcription elongati
 I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out.
 
 
-<div class="highlight-blocks">
+</div>
   <div class="highlight-block">
     <h3>🔬 Academic Researcher</h3>
     <ul>
@@ -58,7 +58,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
     <li>Machine learning and Raman spectroscopy</li>
     <li>Cultivation, isolation and identification of microorganisms</li>
   </ul>
-</div>
+  </div>
   
   <div class="highlight-block">
     <h3>✍️ Content Creator</h3>
@@ -74,16 +74,18 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Visited 7 countries worldwide</li>
       <li>Traveled to 20 provinces in China</li>
       <li>Love cooking Chinese food and learning to make world cuisine</li>
-      <li>Photography enthusiasts: record natural scenery, portraits and wedding commemorative shoots/li>
+      <li>Photography enthusiasts: record natural scenery, portraits and wedding commemorative shoots</li>
       <li>Rich experience in social work & activities & volunteer</li>
     </ul>
   </div>
 </div>
 
+</div>
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!
 - *2024.09*: &nbsp;I received a Young Investigator's grant from Biomedicum Helsinki Foundation.
 - *2024.06*: &nbsp;I received 3 years of funding from iCANDOC at the University of Helsinki.
+</div>
 
 # 📝 Publications 
 
