@@ -30,7 +30,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
     <h3>🔬 Academic Researcher</h3>
     <ul>
       <li>Research focus on cancer transcription, metabolism and multi-omics</li>
-      <li>Publications at Molecular Cancer, Cancer Res, etc</li>
+      <li>Publications at Molecular Oncology, Cancer Res, etc</li>
       <li>Conferences in US and UK:
         <ul>
           <li>Minisymposium speaker at AACR 2025 in chicaco</li>
@@ -107,7 +107,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- ===== 本行是第2篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Cancer</div><img src='images/Publications_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Oncology</div><img src='images/Publications_page-0001.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CDK12-inactivation-induced MYC signaling causes dependency on the splicing kinase SRPK1**
@@ -148,7 +148,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 **Compromised CDK12 activity causes dependency on the high activity of O-GlcNAc transferase**
 
-- Satu Pallasaho, Aishwarya Gondane, Julia Kutz, Jing Liang, Shivani Yalala, Damien Y Duveau, Helmut Pospiech, Craig J Thomas, Massimo Loda, Harri M Itkonen
+- Satu Pallasaho; Aishwarya Gondane; Julia Kutz; **Jing Liang**; Shivani Yalala; Damien Y Duveau; Helmut Pospiech; Craig J Thomas; Massimo Loda; Harri M Itkonen
 - [[DOI]](https://doi.org/10.1093/glycob/cwae081)
 
 </div>
@@ -166,8 +166,8 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 <h1 id="-educations">📝 Educations</h1>
 <ul>
-  <li><em>2022.09 -*: &nbsp;PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
-  <li><em>2022.06*: &nbsp;Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
+  <li><em>2022.09 -*: PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
+  <li><em>2022.06*: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
 </ul>
 
 <!-- # 💬 Invited Talks
