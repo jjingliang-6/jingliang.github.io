@@ -175,7 +175,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
 
-# 📚 Blogs
+📚 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
