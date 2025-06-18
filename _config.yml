@@ -12,9 +12,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Jing Liang"
 description              : ""
-url                     : "https://github.com/jjingliang-6/jingliang.github.io"
-baseurl                 : ""
-repository               : "jingliang.github.io"
+url                     : "https://jjingliang-6.github.io"
+baseurl                 : "/jingliang.github.io"
+repository               : "jjingliang-6/jingliang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -49,7 +49,7 @@ author:
   instagram        : #"jjing"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Jing liang"
+  linkedin         : "https://www.linkedin.com/in/jing-liang-395825293/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0003-2513-6764"
   pinterest        :
