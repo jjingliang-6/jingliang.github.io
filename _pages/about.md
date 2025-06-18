@@ -82,7 +82,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 <h1 id="-publications">📝 Publications</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" width="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Inactivation of CDK12 remodels the transcription machinery and promotes epigenetic plasticity**
@@ -99,7 +99,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- ===== 本行是第2篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Oncology</div><img src='images/Publications_page-0001.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Oncology</div><img src='/jingliang.github.io/images/Publications_page-0001.png' alt="sym" style="max-width:300px; width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CDK12-inactivation-induced MYC signaling causes dependency on the splicing kinase SRPK1**
@@ -111,7 +111,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 <!-- ===== 本行是第3篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry</div><img src='images/Publications_page-0002.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Analytical Chemistry</div><img src='/jingliang.github.io/images/Publications_page-0002.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dynamically Quantifying Intracellular Elemental Sulfur and Predicting Pertinent Gene Transcription by Raman Spectroscopy in Living Cells**
@@ -123,7 +123,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 <!-- ===== 本行是第4篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FASEB J</div><img src='images/Publications_page-0003.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FASEB J</div><img src='/jingliang.github.io/images/Publications_page-0003.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CDK9 inhibition activates innate immune response through viral mimicry**
@@ -135,7 +135,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 </div>
 
 <!-- ===== 本行是第5篇 ===== -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>Glycobiology</div><img src='images/Publications_page-0004.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>Glycobiology</div><img src='/jingliang.github.io/images/Publications_page-0004.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Compromised CDK12 activity causes dependency on the high activity of O-GlcNAc transferase**
