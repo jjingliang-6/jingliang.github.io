@@ -82,7 +82,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 <h1 id="-publications">📝 Publications</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" width="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AACR 2025 Cancer Research</div><img src='images/Publications_page-0000.png' alt="sym" style="max-width:300px; width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Inactivation of CDK12 remodels the transcription machinery and promotes epigenetic plasticity**
