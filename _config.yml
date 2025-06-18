@@ -12,9 +12,9 @@ title_separator          : "-"
 subtitle                 : 
 name                     : "Jing Liang"
 description              : ""
-url                     : "jingliang.github.io"
+url                     : "https://github.com/jjingliang-6/jingliang.github.io"
 baseurl                 : ""
-repository               : "jjingliang-6/jingliang.github.io"
+repository               : "jingliang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
