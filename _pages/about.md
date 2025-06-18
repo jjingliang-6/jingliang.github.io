@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. Currently, I received a three-year grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
+My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. Currently, I received a grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
 
-My research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including transcriptome (**RNA-seq and SLAM-seq**), proteome (**IP-MS**), and epigenomics (**MeDIP-seq**, **ATAC-seq**, and **ChIP-seq**). These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
+My research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including **transcriptome**, **metabolome**, **proteomics**, and **epigenomics**. These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
 
-I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out.
+I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out!
 
 <div class="highlight-blocks">
   <div class="highlight-block">
@@ -50,7 +50,7 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
           <li>R, Python, Jupyter Notebook, Perl, Bash, Linux</li>
           <li>Samples collection and Library prep for various sequencing techniques:
             <ul>
-              <li>RNA-, SLAM, MeDIP-, ATAC-, ChIP-seq, WGS, etc.</li>
+              <li>RNA-, SLAM-, MeDIP-, ATAC-, ChIP-seq, WGS, etc.</li>
             </ul>
           </li>
         </ul>
@@ -60,23 +60,15 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
       <li>Cultivation, isolation, and identification of microorganisms</li>
     </ul>
   </div>
-  
-  <div class="highlight-block">
-    <h3>✍️ Content Creator</h3>
-    <ul>
-      <li>Technical and experience blogs with 2K+ views</li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/629c9c3f000000001b02bf90">Xiaohongshu</a></li>
-    </ul>
-  </div>
-  
+    
   <div class="highlight-block">
     <h3>🌎 Life Explorer</h3>
     <ul>
       <li>Visited 7 countries worldwide</li>
       <li>Traveled to 20 provinces in China</li>
       <li>Love cooking Chinese food and learning to make world cuisine</li>
-      <li>Photography enthusiasts: record natural scenery, portrait,s and wedding commemorative shoots</li>
-      <li>Rich experience in social work & activities & volunteer</li>
+      <li>Photography enthusiasts</li>
+      <li>Rich experience in social work, activities and volunteer</li>
     </ul>
   </div>
 </div>
