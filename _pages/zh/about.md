@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 layout: chinese
 redirect_from: 
-  - /zh/
   - /zh/about.html
 ---
 
