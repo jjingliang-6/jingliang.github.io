@@ -17,3 +17,6 @@ main:
 
   - title: "blogs"
     url: "#-blogs"
+
+  - title: "中文"
+    url: "/zh/about/"
