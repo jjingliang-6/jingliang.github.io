@@ -1,11 +1,12 @@
 ---
-permalink: /zh/
-title: ""
+permalink: /zh/about/
+title: "关于我"
 excerpt: ""
 author_profile: true
 layout: chinese
 redirect_from: 
-  - /zh/about/
+  - /zh/
+  - /zh/index.html
   - /zh/about.html
 ---
 
