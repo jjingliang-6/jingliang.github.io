@@ -6,7 +6,6 @@ author_profile: true
 layout: chinese
 redirect_from: 
   - /zh/
-  - /zh/index.html
   - /zh/about.html
 ---
 
