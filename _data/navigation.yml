@@ -4,16 +4,16 @@ main:
     url: "#about-me"
 
   - title: "news"
-    url: "/#-news"
+    url: "#-news"
 
   - title: "publications"
-    url: "/#-publications"
+    url: "#-publications"
 
   - title: "educations"
-    url: "/#-educations"
+    url: "#-educations"
 
   - title: "internships"
-    url: "/#-internships"
+    url: "#-internships"
 
   - title: "blogs"
-    url: "/#-blogs"
+    url: "#-blogs"
