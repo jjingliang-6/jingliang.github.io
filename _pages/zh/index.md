@@ -4,7 +4,14 @@ title: "中文首页"
 permalink: /zh/
 ---
 
-<!-- 这里写你想在中文首页展示的简介或跳转链接 -->
-欢迎访问我的中文主页！  
-- [关于我](/zh/about/)  
-- [其他内容]…
+<!-- 这是中文站的欢迎页 -->
+<div class="cn-hero">
+  欢迎来到我的中文网站！  
+</div>
+
+<ul class="interest-list">
+  <li><a href="/zh/about/">关于我</a></li>
+  <li><a href="/zh/news/">新闻</a></li>
+  <li><a href="/zh/publications/">发表论文</a></li>
+  <!-- 根据需要继续添加其他链接 -->
+</ul>
