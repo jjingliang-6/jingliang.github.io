@@ -19,9 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. Currently, I received a grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
+My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. During that time, I received training in experimental, sequencing and analytical aspects and completed my master's thesis on constructing genetic networks of yeast transcriptional regulation based on a single-sample network algorithm. The skills I received during this period were well applied to my doctoral thesis. 
 
-My research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including **transcriptome**, **metabolome**, **proteomics**, and **epigenomics**. These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
+Currently, I received a grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
+
+My PhD research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including **transcriptome**, **metabolome**, **proteomics**, and **epigenomics**. These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
 
 I am interested in single-cell and spatial omics, multi-omics data integration and transcriptional regulatory network construction. Feel free to reach out!
 
@@ -75,9 +77,11 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 
 <h1 id="-news">📝 News</h1>
 <ul>
+  <li><em>2025.05</em>: 🎉🎉The abstract is accepted by The 33rd International Society for Computational Biology (ISMB) and The 24th European Conference on Computational Biology (ECCB), ISMB/ECCB 2025. Excited to see you in Liverpool!</li>
+  <li><em>2025.04</em>: 🎉🎉I am very excited I received the offer from OxML 2025 summer school. See you in Oxford!</li>
   <li><em>2025.01</em>: 🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!</li>
-  <li><em>2024.09</em>: I received a Young Investigator's grant from Biomedicum Helsinki Foundation.</li>
-  <li><em>2024.06</em>: I received 3 years of funding from iCANDOC at the University of Helsinki.</li>
+  <li><em>2024.09</em>: 🎉I received a Young Investigator's grant from Biomedicum Helsinki Foundation.</li>
+  <li><em>2024.06</em>: 🎉I received 3 years of funding from iCANDOC at the University of Helsinki.</li>
 </ul>
 
 <h1 id="-publications">📝 Publications</h1>
@@ -162,14 +166,15 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
 </ul>
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+💬 Invited Talks
+- *2025.04*, Minisymposium (Molecular/Cellular Biology and Genetics) speaker at American Association for Cancer Research (AACR). 
+\| [\[video\]](https://github.com/) -->
+<li><em>2025.01</em>: 🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!</li>
 
-<!-- # 💻 Internships (这个可以等有了再填)
-- *2024.08 - Present*: &nbsp; Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
+💻 Internships
+- *2019.02 - 2019.08*: &nbsp; Research Intern, [Institute of Microbiology, Chinese Academy of Sciences](https://english.im.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**.
+- *2019.05 - 2019.08*: &nbsp;Research Intern, [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**.
+- *2019.06 - 2019.06*: &nbsp;Summer Training in Sequencing, [MGI](https://en.mgi-tech.com/), **BGI Genomics**.
 
 <!-- # 📚 Blogs
 
