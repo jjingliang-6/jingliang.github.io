@@ -166,15 +166,18 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
 </ul>
 
-💬 Invited Talks
-- *2025.04*, Minisymposium (Molecular/Cellular Biology and Genetics) speaker at American Association for Cancer Research (AACR). 
-\| [\[video\]](https://github.com/) -->
-<li><em>2025.01</em>: 🎉🎉The abstract is accepted by AACR Annual Meeting 2025. See you in Chicago!</li>
+<h1 id="-invited talks">💬 Invited Talks</h1>
+<ul>
+  <li><em>2025.04</em>: Minisymposium (Molecular/Cellular Biology and Genetics) speaker at American Association for Cancer Research (AACR).</li>
+  <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
+</ul>
 
-💻 Internships
-- *2019.02 - 2019.08*: &nbsp; Research Intern, [Institute of Microbiology, Chinese Academy of Sciences](https://english.im.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**.
-- *2019.05 - 2019.08*: &nbsp;Research Intern, [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**.
-- *2019.06 - 2019.06*: &nbsp;Summer Training in Sequencing, [MGI](https://en.mgi-tech.com/), **BGI Genomics**.
+<h1 id="-internships">💻 Internships</h1>
+<ul>
+  <li><em>2019.02 - 2019.08</em>: Research Intern, [Institute of Microbiology, Chinese Academy of Sciences](https://english.im.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**.</li>
+  <li><em>2019.05 - 2019.08</em>: Research Intern, [Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/), **University of Chinese Academy of Sciences(UCAS)**</li>
+  <li><em>2019.06 - 2019.06</em>: Summer Training in Sequencing, [MGI](https://en.mgi-tech.com/), **BGI Genomics**</li>
+</ul>
 
 <!-- # 📚 Blogs
 
