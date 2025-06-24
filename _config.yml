@@ -46,7 +46,7 @@ author:
   github           : "https://github.com/jjingliang-6/jingliang.github.io"
   google_plus      :
   keybase          :
-  instagram        : #"jjing"
+  instagram        : #
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jing-liang-395825293/"
@@ -76,7 +76,6 @@ t:
     news: "News"
     publications: "Publications"
     honors and awards: "Honors and Awards"
-    educations: "Educations"
     invited talks: "Invited Talks"
     internships: "Internships"
     blogs: "Blogs"

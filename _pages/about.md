@@ -161,12 +161,6 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   <li><em>2016.06 - 2018.06</em>: University First-class Scholarship (3 times), China.</li>
 </ul>
 
-<h1 id="-educations">📝 Educations</h1>
-<ul>
-  <li><em>2022.09 -</em>: PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
-  <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
-</ul>
-
 <h1 id="-invited talks">💬 Invited Talks</h1>
 <ul>
   <li><em>2025.04</em>: Minisymposium (Molecular/Cellular Biology and Genetics) speaker at American Association for Cancer Research (AACR).</li>
@@ -178,6 +172,14 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   <li><em>2019.05 - 2019.12</em>: Research Intern, <a href="http://english.ioz.cas.cn/">Institute of Zoology, Chinese Academy of Sciences</a>, <strong>University of Chinese Academy of Sciences(UCAS)</strong></li>
   <li><em>2019.06 - 2019.06</em>: Summer Training in Sequencing, <a href="https://en.mgi-tech.com/">MGI</a>, <strong>BGI Genomics</strong></li>
 </ul>
+
+<!--<h1 id="-educations">📝 Educations</h1>
+<ul>
+  <li><em>2022.09 -</em>: PhD student in DPBM, University of Helsinki, Helsinki, Finland.</li>
+  <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
+</ul>
+
+
 
 <!-- # 📚 Blogs
 
