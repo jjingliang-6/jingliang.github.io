@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. During that time, I received training in experimental, sequencing and analytical aspects and completed my master's thesis on constructing genetic networks of yeast transcriptional regulation based on a single-sample network algorithm. The skills I received during this period were well applied to my doctoral thesis. 
+My name is Jing Liang. I am a PhD student and a bioinformatician at the Doctoral Programme in Biomedicine (DPBM) at <i class="fas fa-university"></i> **University of Helsinki**. Currently, I received a grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
 
-Currently, I received a grant from the **iCAN - Digital Precision Cancer Medicine (iCANDOC)** supported by the University of Helsinki to complete my PhD degree.
+I earned my Master's degree in Genetics from <i class="fas fa-university"></i> **University of Chinese Academy of Sciences**. During this period, I received training in **experiments**, **sequencing and analysis**, as well as **code programming**. Based on this, I completed my master's thesis on constructing genetic networks of yeast transcriptional regulation based on a single-sample network algorithm. I am very glad to have received training and valuable research experience at the <i class="fas fa-university"></i> **Institute of Microbiology, Chinese Academy of Sciences**, and to have applied the acquired knowledge and techniques in my doctoral research.
 
 My PhD research focuses on explaining why inactivation of the transcription elongation kinase CDK12 leads to rewiring in prostate cancer cells, including **transcriptome**, **metabolome**, **proteomics**, and **epigenomics**. These results were also validated in organoids and other cancer cell lines. In addition, to map how the loss of CDK12 activity remodels the machinery built on the transcribing RNA Pol II, I developed a method to **metabolically label mRNA** selectively enrich the polymerase transcribing the genes.
 
@@ -33,10 +33,11 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
     <ul>
       <li>Research focus on cancer transcription, metabolism and multi-omics</li>
       <li>Publications at Molecular Oncology, Cancer Res, etc</li>
-      <li>Conferences in US and UK:
+      <li>Conferences:
         <ul>
-          <li>Minisymposium speaker at AACR 2025 in chicaco</li>
-          <li>Poster presentation at ISMB/ECCB 2025 in Liverpool</li>
+          <li>Minisymposium speaker at AACR 2025 in chicaco, USA.</li>
+          <li>Poster presentation at ISMB/ECCB 2025 in Liverpool, UK.</li>
+          <li>Sino-Micro 2019, Beijing, China.</li>
         </ul>
       </li>
     </ul>
@@ -169,13 +170,12 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
 <h1 id="-invited talks">💬 Invited Talks</h1>
 <ul>
   <li><em>2025.04</em>: Minisymposium (Molecular/Cellular Biology and Genetics) speaker at American Association for Cancer Research (AACR).</li>
-  <li><em>2022.06</em>: Master of Science in Genetics, University of Chinese Academy of Sciences, Beijing, China.</li>
 </ul>
 
 <h1 id="-internships">💻 Internships</h1>
 <ul markdown="1">
   <li><em>2019.02 - 2019.08</em>: Research Intern, <a href="https://english.im.cas.cn/">Institute of Microbiology, Chinese Academy of Sciences</a>, <strong>University of Chinese Academy of Sciences(UCAS)</strong></li>
-  <li><em>2019.05 - 2019.08</em>: Research Intern, <a href="http://english.ioz.cas.cn/">Institute of Zoology, Chinese Academy of Sciences</a>, <strong>University of Chinese Academy of Sciences(UCAS)</strong></li>
+  <li><em>2019.05 - 2019.12</em>: Research Intern, <a href="http://english.ioz.cas.cn/">Institute of Zoology, Chinese Academy of Sciences</a>, <strong>University of Chinese Academy of Sciences(UCAS)</strong></li>
   <li><em>2019.06 - 2019.06</em>: Summer Training in Sequencing, <a href="https://en.mgi-tech.com/">MGI</a>, <strong>BGI Genomics</strong></li>
 </ul>
 
