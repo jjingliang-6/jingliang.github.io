@@ -46,7 +46,6 @@ I am interested in single-cell and spatial omics, multi-omics data integration a
   <div class="highlight-block">
     <h3>🧍 Research experience</h3>
     <ul>
-      <li>Research focus on cancer transcription, metabolism and multi-omics</li>
       <li>
         Proficient in coding, sequencing platform construction, and omics data analysis:
         <ul>
